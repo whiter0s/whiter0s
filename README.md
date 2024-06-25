@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @whiter0s a young python and c deb
+- 👋 Hi, I’m @whiter0s a young python and c dev
 - 👀 I’m interested in sleeping a lot
 - 🌱 I’m currently learning how to fix my sleep schedule
 - 💞️ I’m looking to collaborate on python projects or in the future support oss
